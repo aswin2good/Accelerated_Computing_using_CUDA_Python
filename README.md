@@ -1,8 +1,6 @@
 # Fundamentals of Accelerated Computing with CUDA Python
 
-![NVIDIA DLI Logo](https://developer-blogs.nvidia.com/wp-content/uploads/2020/03/DLI_Feature_new.png)
-
-Welcome to the repository for the "Fundamentals of Accelerated Computing with CUDA Python" course by NVIDIA Deep Learning Institute (DLI).
+Welcome to the repository for the "Fundamentals of Accelerated Computing with CUDA Python" course by NVIDIA.
 
 ## Course Description
 The "Fundamentals of Accelerated Computing with CUDA Python" course is designed to introduce you to the fundamentals of parallel programming using CUDA Python, a powerful framework for harnessing the computational power of NVIDIA GPUs. Whether you're a beginner or an experienced developer, this course will equip you with the knowledge and skills to accelerate your Python applications using GPU parallelism.
